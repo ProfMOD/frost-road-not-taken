@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "46463dd2-d42b-4376-9394-03145b6e3dd6": {
+      "label": "Frost Road",
+      "is_offline": false,
+      "file_url": "https://ia800807.us.archive.org/21/items/mikes-project-sample/Mike%27s%20Project%20Sample.mp3",
+      "duration": 60,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Robert Frost \"The Road Not Taken\"",
+  "created_at": "2025-02-23T22:45:06.511Z",
+  "created_by": "ProfMOD",
+  "updated_at": "2025-02-23T22:45:06.511Z",
+  "updated_by": "ProfMOD"
+}

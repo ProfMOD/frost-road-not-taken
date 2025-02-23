@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-23T22:45:06.684Z",
+  "created_by": "ProfMOD",
+  "title": "Robert Frost \"The Road Not Taken\"",
+  "slug": "robert-frost-the-road-not-taken",
+  "updated_at": "2025-02-23T22:45:06.684Z",
+  "updated_by": "ProfMOD",
+  "parent": "8f3974ce-dc7a-47dd-850e-f0227d5aa881",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "f4ab9906-6f11-4ff1-9f31-31ab1e25d01a"
+  }
+}
