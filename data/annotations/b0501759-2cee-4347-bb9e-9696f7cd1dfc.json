@@ -671,6 +671,22 @@
         }
       ],
       "uuid": "8d190e42-d53a-414c-aea0-e121cc534c9e"
+    },
+    {
+      "start_time": 24,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conversational, accelerated speech"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5ea75781-93d5-4550-914d-5207a23b42e3"
     }
   ],
   "set": "Default",
