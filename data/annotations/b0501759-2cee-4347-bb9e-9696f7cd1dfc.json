@@ -1,5 +1,657 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two roads diverged in a yellow wood,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "afe64252-88ea-41a6-8cec-1e14a47a8f7d"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "35457fdf-4620-4431-a5fc-4597542f9c3d"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And sorry I could not travel both"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "def85502-25ff-46a7-8a71-50085276c6ef"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And be one traveler, long I stood"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "448a8ed5-a4d7-4e64-b97a-3942d65d54bb"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "f02dda10-a0d8-4317-bfc3-6167f4b92216"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And looked down one as far as I could"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "49537cbc-ff3c-4a80-982c-553327b3cbd4"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To where it bent in the undergrowth;"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b13ad84f-b36f-4a0f-bd1b-4564b43b6fa3"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "3d05afcf-a13a-4fda-8aef-6b276efca582"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "14a13df6-e34d-406f-a8e8-de70418da458"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "75e38123-8332-4616-a3f4-2934c84d558c"
+    },
+    {
+      "start_time": 16,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "took the other, as just as fair,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "ee2df50c-6cff-4221-ab87-22e210574d05"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "3c9ee7c7-f1e3-42a1-8a56-a3aa52047ac3"
+    },
+    {
+      "start_time": 18,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And having perhaps the better claim,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "9ccc025f-a8e7-4c40-a24e-fb7a3d154679"
+    },
+    {
+      "start_time": 20,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because it was grassy and wanted wear;"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "4f08a4e4-77da-4225-afc0-74471d8dfc74"
+    },
+    {
+      "start_time": 23,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "97d8ca3f-355f-4ed9-8975-d53e71343dd1"
+    },
+    {
+      "start_time": 24,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Though as for that the passing there"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "69663da9-05fc-4957-a2ad-dc7f72d866ee"
+    },
+    {
+      "start_time": 27,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Had worn them really about the same,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "05f832d0-413b-4efe-8f88-ff89ef3a0216"
+    },
+    {
+      "start_time": 30,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And both that morning equally lay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "3d6950f5-3c69-42fc-bf5c-7239f114e550"
+    },
+    {
+      "start_time": 32,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In leaves no step had trodden black."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b8999dc7-e1bf-46d4-ab43-1f3c8de518d0"
+    },
+    {
+      "start_time": 34,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "b52bcee4-5cc3-481b-b1f4-d13505177697"
+    },
+    {
+      "start_time": 36,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I kept the first for another day!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "507fe58e-38ca-4a46-8568-b5239bdff7e1"
+    },
+    {
+      "start_time": 38,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yet knowing how way leads on to way,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "fbf89129-9af1-44df-8a9d-83462d12b51d"
+    },
+    {
+      "start_time": 42,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I doubted if I should ever come back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "d2efad6f-0f84-441a-b4d3-3d1ec1b48706"
+    },
+    {
+      "start_time": 44,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "3ad615dc-7012-4d61-b1b6-4ef0d76893da"
+    },
+    {
+      "start_time": 46,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I shall be telling this with a sigh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "20309831-96b1-4fd9-a042-5e82806de312"
+    },
+    {
+      "start_time": 47,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somewhere ages and ages hence:"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "7e33483d-3993-48a8-a901-cf0c374a0c4c"
+    },
+    {
+      "start_time": 49,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "e36abaa3-4c45-453a-8afc-ccc9d1b11452"
+    },
+    {
+      "start_time": 50,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two roads diverged in a wood, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "00f06dc5-a3c5-4ef3-8aec-eeb62d54132f"
+    },
+    {
+      "start_time": 52,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "8d6d485e-3f00-49dc-928d-392c9881695b"
+    },
+    {
+      "start_time": 53,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and I—I took the one less traveled by,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "d8f048e5-527a-4f2d-ae89-ff448b9fc4fb"
+    },
+    {
+      "start_time": 58,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that has made all the difference."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a13a0a76-0c87-456f-afed-6e469a155aeb"
+    }
+  ],
   "set": "Default",
   "event_id": "afd9cc0c-01fa-45f1-bf3a-4e5d145dd65e",
   "source_id": "b685a1eb-ec49-430b-8968-71d8a9759768"
