@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "b0610ed4-5f55-48db-8bff-9324c054c512": {
+      "label": "Frost \"Road Not Taken\"",
+      "is_offline": false,
+      "file_url": "https://ia800807.us.archive.org/21/items/mikes-project-sample/Mike%27s%20Project%20Sample.mp3",
+      "duration": 60,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Robert Frost reads \"The Road Not Taken\""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Robert Frost \"The Road Not Taken\"",
+  "created_at": "2025-02-23T21:15:49.144Z",
+  "created_by": "ProfMOD",
+  "updated_at": "2025-02-23T21:15:49.144Z",
+  "updated_by": "ProfMOD"
+}
