@@ -650,6 +650,27 @@
         }
       ],
       "uuid": "a13a0a76-0c87-456f-afed-6e469a155aeb"
+    },
+    {
+      "start_time": 57,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Caesura"
+        }
+      ],
+      "uuid": "8d190e42-d53a-414c-aea0-e121cc534c9e"
     }
   ],
   "set": "Default",
