@@ -713,6 +713,27 @@
         }
       ],
       "uuid": "a1e1c04f-1fc8-4e24-a4ea-8a915409371c"
+    },
+    {
+      "start_time": 46,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Slowed, contemplative delivery"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "a2a0d4e3-24a6-4cc7-92d9-2e25f4fc1457"
     }
   ],
   "set": "Default",
