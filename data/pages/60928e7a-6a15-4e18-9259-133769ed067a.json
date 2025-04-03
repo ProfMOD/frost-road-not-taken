@@ -151,6 +151,32 @@
       ]
     },
     {
+      "type": "event",
+      "uuid": "f4ab9906-6f11-4ff1-9f31-31ab1e25d01a",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 24,
+      "end": 34,
+      "file": "46463dd2-d42b-4376-9394-03145b6e3dd6",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -184,6 +210,6 @@
   "slug": "introduction-the-most-mis-read-poem-in-histo",
   "created_at": "2025-03-12T16:55:17.521Z",
   "created_by": "ProfMOD",
-  "updated_at": "2025-04-03T21:43:39.331Z",
+  "updated_at": "2025-04-03T21:45:03.355Z",
   "updated_by": "ProfMOD"
 }
