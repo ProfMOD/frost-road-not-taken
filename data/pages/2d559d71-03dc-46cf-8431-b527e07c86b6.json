@@ -1,0 +1,230 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Literary Sound Bibliography",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bernstein, Charles, Ed. "
+        },
+        {
+          "text": "Close Listening: Poetry and the Performed Word",
+          "italic": true
+        },
+        {
+          "text": ". Oxford University Press, "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1998."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Camlot, Jason. “Historicist Audio Forensics: The Archive of Voices as Repository of Material and "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Conceptual Artefacts.” 19: Interdisciplinary Studies in the Long Nineteenth Century, no. 21, "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2015."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "---. "
+        },
+        {
+          "text": "Phonopoetics: The Making of Early Literary Recordings",
+          "italic": true
+        },
+        {
+          "text": ". Stanford University Press, 2019. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Camlot, Jason and Katherine McLeod, Eds. "
+        },
+        {
+          "text": "CanLit Across Media: Unarchiving the Literary Event",
+          "italic": true
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "McGill-Queen’s University Press, 2019."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "---. \"New Sonic Approaches in Literary Studies.\" "
+        },
+        {
+          "text": "ESC: English Studies in Canada",
+          "italic": true
+        },
+        {
+          "text": " 46.2-4, 2020 (2023)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chow, Rey, and James A. Steintrager, Eds. "
+        },
+        {
+          "text": "Sound Objects",
+          "italic": true
+        },
+        {
+          "text": ". Durham, NC: Duke UP, 2019. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ehrick, Christine. "
+        },
+        {
+          "text": "Radio and the Gendered Soundscape",
+          "italic": true
+        },
+        {
+          "text": ". Cambridge University Press, 2015."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eidsheim, Nina Sun. "
+        },
+        {
+          "text": "The Race of Sound",
+          "italic": true
+        },
+        {
+          "text": ". Durham and London: Duke UP, 2019. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Filreis, Al. “Notes on Paraphonotextuality.” "
+        },
+        {
+          "text": "Amodern",
+          "italic": true
+        },
+        {
+          "text": " 4 (2015). Web. May 2016."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Friedner, Michele and Stefan Helmreich. “Sound Studies Meets Deaf Studies.” "
+        },
+        {
+          "text": "The Senses and Society",
+          "italic": true
+        },
+        {
+          "text": " 7:1 (2012): 72-86. DOI: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Furlonge, Nicole Brittingham. "
+        },
+        {
+          "text": "Race Sounds",
+          "italic": true
+        },
+        {
+          "text": ". Iowa City: U of Iowa P, 2018. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Bibliography",
+  "parent": "8f3974ce-dc7a-47dd-850e-f0227d5aa881",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "bibliography",
+  "created_at": "2025-04-03T21:06:45.562Z",
+  "created_by": "ProfMOD",
+  "updated_at": "2025-04-03T21:06:45.562Z",
+  "updated_by": "ProfMOD"
+}
