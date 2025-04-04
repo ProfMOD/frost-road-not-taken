@@ -37,7 +37,7 @@
           "italic": true
         },
         {
-          "text": ". Its central theme is the divergence of paths, both literally and figuratively, although its interpretation is noted for being complex and potentially controversial. The controversy of the poem's interpretation stems from the fact that the poem is conventionally understood as a testament to individualism, the virtue of self-reliance, and the reward that awaits those who strike out boldly on their own, regardless of common belief and the pull of the crowd. Indeed, the poem often appears in such wishful terms as a feature of corporate sloganeering, trite self-help sentiment, or the wisdom of the aged mentor. "
+          "text": ". Its central theme is the divergence of paths, both literally and figuratively, although its interpretation is noted for being complex and potentially controversial. The controversy of the poem's interpretation stems from the fact that the poem is conventionally understood as a testament to individualism, the virtue of self-reliance, and the reward that awaits those who strike out boldly on their own, regardless of common belief and the pull of the crowd. Tellingly, the poem often appears in such wishful terms as a feature of corporate sloganeering, trite self-help sentiment, or the wisdom of the aged mentor. "
         }
       ]
     },
@@ -144,7 +144,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The poem, it might be said, is a poem about lying, and Frost's performance of the poem some fifty years after it's publication underlines that interpretation. One imagines, perhaps, that after a century of misreadings, Frost sought in his rendition of the poem to set the record straight. Indeed, the versioning of the poem as a record of vocal performance is in keeping with Charles Bernstein's contention that "
+          "text": "The poem, it might be said, is a poem about lying, and Frost's performance of the poem some fifty years after it's publication underlines that interpretation. One imagines, perhaps, that after a century of misreadings, Frost sought in his rendition of the poem to set the record straight. In that sense, Frost's versioning of the poem as a record of vocal performance is in keeping with Charles Bernstein's contention that the performance of poetry be regarded \"not as a secondary extension of 'prior' written texts but as its own medium\" (10)."
         }
       ]
     },
@@ -152,15 +152,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"The Road Not Taken\" reads colloquially, beginning as a kind of photographic depiction of a quiet moment in yellow wood. The variation of its rhythm gives naturalness, a feeling of thought occurring spontaneously, affecting the reader's sense of expectation. Lines 9-12, cited above, the few lines containing strictly iambs, the more regular rhythm supports the idea of a turning towards an acceptance of a kind of reality: \"Though as for that the passing there … \" In the final line, the way the rhyme and rhythm work together is significantly different, and catches the reader off guard."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "In Frost's performance of the poem, recorded almost half a century later, one notes his divergence from the strict formal patterns of the poem--particularly in those lines in which he switches from the high rhetorical oration of the poem's meditative reminiscences to the much more conversational (indeed, almost a whispered aside) in which he confesses that there was, in fact, no real difference between the two roads apparent to the speaker. As the following annotations indicate, Frost's reading of the poem is marked consistently by slow tempo and pronounced caesura, in a recitation that any listener would recognize as a classic version of \"poet voice\" as Marit MacArthur would name it. However, from 00:24 to 00:34, Frost descends into a high tempo, conversational voice as he reveals the truth of the moment. "
+          "text": "In Frost's performance of the poem one notes his divergence from the strict formal patterns of the poem--particularly in those lines in which he switches from the high rhetorical oration of the poem's meditative reminiscences to the much more conversational (indeed, almost a familiar aside) in which he confesses that there was, in fact, no real difference between the two roads apparent to the speaker. As the accompanying annotations indicate, Frost's reading of the poem is marked consistently by slow tempo and pronounced caesura, in a recitation that any listener would recognize as a classic version of \"poet voice\" as Marit MacArthur would name it (44). However, from 00:24 to 00:34, Frost descends into a higher tempo, conversational voice as he reveals the truth of the moment. "
         }
       ]
     },
@@ -202,7 +194,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In conclusion, “The Road Not Taken” offers a nuanced exploration of human decision-making. Far from a straightforward celebration of individualism, it reveals the psychological mechanisms through which people justify their choices. Frost’s poem serves as a reminder that the stories we tell ourselves about our lives may matter more than the actual events that inspired them."
+          "text": "As Frost's performance underscores, “The Road Not Taken” offers a nuanced exploration of human decision-making. Far from a straightforward celebration of individualism, it reveals the psychological mechanisms through which people justify their choices. Frost’s poem serves as a reminder that the stories we tell ourselves about our lives may matter more than the actual events that inspired them. Nonetheless, a more charitable way to read this poem--that is, other than it being a poem about how we all lie about ourselves--is that Frost is actually celebrating the social and cultural function of poetry as an act of memorialization and celebration. His performative shift in tone, from \"poet voice\" to a conversational aside and back again, accentuates and demonstrates the power of poetic diction and, indeed, decades of misreading testify to that very power. "
         }
       ]
     },
@@ -210,7 +202,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "A more charitable way to read this poem--that is, other than it being a poem about how we all lie about ourselves--is that Frost is actually celebrating the social and cultural function of poetry as an act of memorialization and celebration. His shift in tone, from poet voice to conversation and back again, accentuates and demonstrates the power of poetic diction and, indeed, decades of misreading testify to that very power. "
+          "text": ""
         }
       ]
     },
@@ -220,7 +212,8 @@
         {
           "text": "Works Cited"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -234,7 +227,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Frost, Robert. The Road Not Taken and Other Poems. Dover Publications, 1993."
+          "text": "Bernstein, Charles, Ed. "
+        },
+        {
+          "text": "Close Listening: Poetry and the Performed Word",
+          "italic": true
+        },
+        {
+          "text": ". Oxford University Press, 1998."
         }
       ]
     },
@@ -242,7 +242,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Frost, Robert. "
+        },
+        {
+          "text": "The Road Not Taken and Other Poems",
+          "italic": true
+        },
+        {
+          "text": ". Dover Publications, 1993."
         }
       ]
     },
@@ -250,7 +257,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Heaney, Seamus. The Redress of Poetry: Oxford Lectures. Farrar, Straus and Giroux, 1995."
+          "text": "Heaney, Seamus. "
+        },
+        {
+          "text": "The Redress of Poetry: Oxford Lectures",
+          "italic": true
+        },
+        {
+          "text": ". Farrar, Straus and Giroux, 1995."
         }
       ]
     },
@@ -258,7 +272,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Lentricchia, Frank. "
+        },
+        {
+          "text": "Robert Frost: Modern Poetics and the Landscapes of Self",
+          "italic": true
+        },
+        {
+          "text": ". Duke University Press, 1975."
         }
       ]
     },
@@ -266,7 +287,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Lentricchia, Frank. Robert Frost: Modern Poetics and the Landscapes of Self. Duke University Press, 1975."
+          "text": "MacArthur, Marit. \"Monotony, the Churches of Poetry Reading, and Sound Studies.\" "
+        },
+        {
+          "text": "PMLA",
+          "italic": true
+        },
+        {
+          "text": " 131.1 (2016): 38-63."
         }
       ]
     },
@@ -274,15 +302,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "Orr, David. "
+        },
         {
-          "text": "Orr, David. The Road Not Taken: Finding America in the Poem Everyone Loves and Almost Everyone Gets Wrong. Penguin, 2015."
+          "text": "The Road Not Taken: Finding America in the Poem Everyone Loves and Almost Everyone Gets Wrong",
+          "italic": true
+        },
+        {
+          "text": ". Penguin, 2015."
         }
       ]
     },
@@ -312,6 +339,6 @@
   "slug": "introduction-the-most-mis-read-poem-in-histo",
   "created_at": "2025-03-12T16:55:17.521Z",
   "created_by": "ProfMOD",
-  "updated_at": "2025-04-04T15:05:31.376Z",
+  "updated_at": "2025-04-04T15:15:37.202Z",
   "updated_by": "ProfMOD"
 }
